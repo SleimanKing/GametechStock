@@ -20,13 +20,12 @@
 
 ## 🧱 Estructura del proyecto
 
-Ver el archivo `/README-estructura.md` o la documentación para más detalles.
+Ver el archivo `/readme.txt` para más detalles.
 
 ## 🚀 Cómo ejecutar
 
 1. Cloná el proyecto:
 
-```bash
 git clone https://github.com/usuario/GametechStock.git
 cd GametechStock
 
